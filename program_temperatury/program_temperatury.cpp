@@ -1,4 +1,6 @@
-// PROJEKT TEMPERATURY
+// Zadanie TEMPERATURY
+// Filip Stankiewicz 170396 Bioinformatyka
+
 #include <iostream>
 #include <stdlib.h>
 using namespace std;
