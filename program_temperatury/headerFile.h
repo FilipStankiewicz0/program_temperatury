@@ -1,0 +1,12 @@
+void pytanie();
+float FtoC(float temp0);
+float FtoK(float temp0);
+float CtoF(float temp0);
+float CtoK(float temp0);
+float KtoC(float temp0);
+float KtoF(float temp0);
+float pobierzF();
+float pobierzC();
+float pobierzK();
+float check(float temp0, char stopnie0);
+void historia(double mem[100], char sym[100]);
